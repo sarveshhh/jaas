@@ -22,4 +22,4 @@ Configurations:
 - Jenkins will be configured with skipping installation wizard initially.
 - Initial User will be setup using adminuser.groovy that is to be kept besides Dockerfile.
 - Ldap configurations will be done using ldap.groovy besides Dockerfile. Don't forget to uncomment line in Dockerfile that copied ldap.groovy to init.groovy.d dir
-- sysadminemailconfig.groovy will take care of configuring email address for admin. Currently it has mine email address.
+- sysadminemailconfig.groovy will take care of configuring email address for admin.
