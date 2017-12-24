@@ -1,6 +1,5 @@
 #!groovy
 //This script will configure ldap credentials in Containerized jenkins instance
-// Created By: Sarvesh Gupta / Himanshu Goel
 
 import jenkins.model.*
 import hudson.security.*
