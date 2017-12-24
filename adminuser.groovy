@@ -1,6 +1,5 @@
 #!groovy
 //This script will create a first user admin
-// Created By: Sarvesh Gupta / Himanshu Goel
  
 import jenkins.model.*
 import hudson.security.*
